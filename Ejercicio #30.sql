@@ -1,6 +1,6 @@
--- MOoises Nunez del Rosario | 2020-10457
+-- Moises Nunez del Rosario | 2020-10457
 
--- 
+-- Tarea ejercicio de AVG, sum, Min, max.
 
 drop table empleados;
 
